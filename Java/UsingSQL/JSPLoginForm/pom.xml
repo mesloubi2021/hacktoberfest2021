@@ -38,7 +38,7 @@
     <javamail.version>1.4.5</javamail.version>
     <jspc.maven.plugin>2.0-alpha-3</jspc.maven.plugin>
     <jstl.version>1.2</jstl.version>
-    <junit.version>4.10</junit.version>
+    <junit.version>4.13.1</junit.version>
     <logback.version>1.2.13</logback.version>
     <maven.enforcer.plugin>1.0.1</maven.enforcer.plugin>
     <maven.war.plugin>2.2</maven.war.plugin>
