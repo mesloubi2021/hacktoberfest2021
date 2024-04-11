@@ -17,7 +17,7 @@ Flask==2.2.5
 Flask-RESTful==0.3.8
 Flask-SQLAlchemy==2.4.3
 h11==0.12.0
-idna==2.10
+idna==3.7
 ipykernel==6.0.1
 ipython==8.10.0
 ipython-genutils==0.2.0
